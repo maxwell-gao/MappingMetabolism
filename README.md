@@ -59,6 +59,8 @@ Run the script to generate the output.svg file.
 ## Output
 
 The primary output is an SVG file (output.svg) containing a visual representation of the metabolic pathways based on the processed data.
+<!-- Insert `output.svg` -->
+![output.svg](output.svg)
 
 ## Notes
 
